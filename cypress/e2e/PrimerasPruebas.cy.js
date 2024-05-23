@@ -3,8 +3,6 @@ describe('Crear una cuenta',()=>{
    beforeEach(()=>{
     cy.visit('https://domicilios.tiendasd1.com/')
    })
-   
-
 //se va a realizar prueba de iniciar sesión en Tiendas D1
 it('Inicio de Registro correcto',()=>{
     //Se realiza el primer escenario.
